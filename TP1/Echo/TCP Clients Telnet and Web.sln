@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoClient", "ChatClient\EchoClient.csproj", "{6EF400E9-7FEC-4EE2-9183-E364B79B0121}"
+	ProjectSection(ProjectDependencies) = postProject
+		{7269563B-8C67-476C-B2B7-515661ACA003} = {7269563B-8C67-476C-B2B7-515661ACA003}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoServer", "ChatServer\EchoServer.csproj", "{7269563B-8C67-476C-B2B7-515661ACA003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF400E9-7FEC-4EE2-9183-E364B79B0121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF400E9-7FEC-4EE2-9183-E364B79B0121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF400E9-7FEC-4EE2-9183-E364B79B0121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF400E9-7FEC-4EE2-9183-E364B79B0121}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7269563B-8C67-476C-B2B7-515661ACA003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7269563B-8C67-476C-B2B7-515661ACA003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7269563B-8C67-476C-B2B7-515661ACA003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7269563B-8C67-476C-B2B7-515661ACA003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E07C6A-1629-4FA7-95C1-CD7937FD8A13}
+	EndGlobalSection
+EndGlobal
