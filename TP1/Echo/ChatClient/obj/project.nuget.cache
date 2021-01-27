@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xrIPo2SohSAuoo8nmm0bAFprnH+K40WZTPc1ACo8B/A82YIXnZrK9+3AQPfslExLzfsiT15AVC6Q21xHGv0NAQ==",
+  "dgSpecHash": "ZH4mlqAKjkYleDilB4ZV4t0wqNMQ7NExs8Cistk6fuskHrvaz+McB5NNqeGf0nEFvYC9rT1ZMZq88msl4WkWtQ==",
   "success": true,
-  "projectFilePath": "A:\\Enseignement\\Web_Server_and_Client\\Web_Server_and_Client - Copie\\ChatClient\\EchoClient.csproj",
+  "projectFilePath": "C:\\Users\\jean-yves\\Source\\Repos\\eiin839\\TP1\\Echo\\ChatClient\\EchoClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
