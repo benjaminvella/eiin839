@@ -10,15 +10,23 @@ namespace BasicServerHTTPlistener
     {
         private static void Main(string[] args)
         {
+            
+
             if (!HttpListener.IsSupported)
             {
                 Console.WriteLine("A more recent Windows version is required to use the HttpListener class.");
                 return;
             }
- 
- 
+
             // Create a listener.
             HttpListener listener = new HttpListener();
+
+            // Trap Ctrl-C and exit 
+            Console.CancelKeyPress += delegate
+            {
+                listener.Stop();
+                System.Environment.Exit(0);
+            };
 
             // Add the prefixes.
             if (args.Length != 0)
