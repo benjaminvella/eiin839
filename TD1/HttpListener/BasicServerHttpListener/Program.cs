@@ -56,7 +56,7 @@ namespace BasicServerHTTPlistener
                 // Note: The GetContext method blocks while waiting for a request.
                 HttpListenerContext context = listener.GetContext();
                 HttpListenerRequest request = context.Request;
-
+                
                 string documentContents;
                 using (Stream receiveStream = request.InputStream)
                 {
@@ -68,8 +68,27 @@ namespace BasicServerHTTPlistener
                 Console.WriteLine($"Received request for {request.Url}");
                 Console.WriteLine(documentContents);
 
+                System.Collections.Specialized.NameValueCollection headers = request.Headers;
+                foreach (string key in headers.AllKeys)
+                {
+                    string[] values = headers.GetValues(key);
+                    if (values.Length > 0)
+                    {
+                        Console.WriteLine("The values of the {0} header are: ", key);
+                        foreach (string value in values)
+                        {
+                            Console.WriteLine("   {0}", value);
+                        }
+                    }
+                    else
+                    {
+                        Console.WriteLine("There is no value associated with the header.");
+                    }
+                }
                 // Obtain a response object.
                 HttpListenerResponse response = context.Response;
+                
+
 
                 // Construct a response.
                 string responseString = "<HTML><BODY> Hello world!</BODY></HTML>";
