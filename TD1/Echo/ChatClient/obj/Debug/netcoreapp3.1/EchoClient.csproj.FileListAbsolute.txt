@@ -36,3 +36,16 @@ A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatClient\o
 A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.dll
 A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.pdb
 A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.genruntimeconfig.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.exe
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.deps.json
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.runtimeconfig.json
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.runtimeconfig.dev.json
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.dll
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\Echo\ChatClient\bin\Debug\netcoreapp3.1\EchoClient.pdb
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.csprojAssemblyReference.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.AssemblyInfoInputs.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.AssemblyInfo.cs
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.csproj.CoreCompileInputs.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.dll
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.pdb
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\Echo\ChatClient\obj\Debug\netcoreapp3.1\EchoClient.genruntimeconfig.cache

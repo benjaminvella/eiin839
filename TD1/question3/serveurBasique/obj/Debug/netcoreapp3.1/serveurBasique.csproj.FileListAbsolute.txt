@@ -1,0 +1,13 @@
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\question3\serveurBasique\bin\Debug\netcoreapp3.1\serveurBasique.exe
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\question3\serveurBasique\bin\Debug\netcoreapp3.1\serveurBasique.deps.json
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\question3\serveurBasique\bin\Debug\netcoreapp3.1\serveurBasique.runtimeconfig.json
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\question3\serveurBasique\bin\Debug\netcoreapp3.1\serveurBasique.runtimeconfig.dev.json
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\question3\serveurBasique\bin\Debug\netcoreapp3.1\serveurBasique.dll
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\question3\serveurBasique\bin\Debug\netcoreapp3.1\serveurBasique.pdb
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\question3\serveurBasique\obj\Debug\netcoreapp3.1\serveurBasique.AssemblyInfoInputs.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\question3\serveurBasique\obj\Debug\netcoreapp3.1\serveurBasique.AssemblyInfo.cs
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\question3\serveurBasique\obj\Debug\netcoreapp3.1\serveurBasique.csproj.CoreCompileInputs.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\question3\serveurBasique\obj\Debug\netcoreapp3.1\serveurBasique.dll
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\question3\serveurBasique\obj\Debug\netcoreapp3.1\serveurBasique.pdb
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\question3\serveurBasique\obj\Debug\netcoreapp3.1\serveurBasique.genruntimeconfig.cache
+C:\Users\PC-i7-Julien\Desktop\cours\SI4\deuxième semestre\soc\tds\td1\forkGitHub\eiin839\TP1\question3\serveurBasique\obj\Debug\netcoreapp3.1\serveurBasique.csprojAssemblyReference.cache

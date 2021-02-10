@@ -8,23 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\jean-yves\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\PC-i7-Julien\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jean-yves\\Source\\Repos\\eiin839\\TP1\\Echo\\ChatClient\\EchoClient.csproj",
+      "projectUniqueName": "C:\\Users\\PC-i7-Julien\\Desktop\\cours\\SI4\\deuxième semestre\\soc\\tds\\td1\\forkGitHub\\eiin839\\TP1\\Echo\\ChatClient\\EchoClient.csproj",
       "projectName": "EchoClient",
-      "projectPath": "C:\\Users\\jean-yves\\Source\\Repos\\eiin839\\TP1\\Echo\\ChatClient\\EchoClient.csproj",
-      "packagesPath": "C:\\Users\\jean-yves\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jean-yves\\Source\\Repos\\eiin839\\TP1\\Echo\\ChatClient\\obj\\",
+      "projectPath": "C:\\Users\\PC-i7-Julien\\Desktop\\cours\\SI4\\deuxième semestre\\soc\\tds\\td1\\forkGitHub\\eiin839\\TP1\\Echo\\ChatClient\\EchoClient.csproj",
+      "packagesPath": "C:\\Users\\PC-i7-Julien\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\PC-i7-Julien\\Desktop\\cours\\SI4\\deuxième semestre\\soc\\tds\\td1\\forkGitHub\\eiin839\\TP1\\Echo\\ChatClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\jean-yves\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC-i7-Julien\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],

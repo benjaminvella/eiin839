@@ -3,12 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoClient", "ChatClient\EchoClient.csproj", "{6EF400E9-7FEC-4EE2-9183-E364B79B0121}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EchoClient", "ChatClient\EchoClient.csproj", "{6EF400E9-7FEC-4EE2-9183-E364B79B0121}"
 	ProjectSection(ProjectDependencies) = postProject
 		{7269563B-8C67-476C-B2B7-515661ACA003} = {7269563B-8C67-476C-B2B7-515661ACA003}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoServer", "ChatServer\EchoServer.csproj", "{7269563B-8C67-476C-B2B7-515661ACA003}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EchoServer", "ChatServer\EchoServer.csproj", "{7269563B-8C67-476C-B2B7-515661ACA003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicServerHTTPlistener", "..\HttpListener\BasicServerHttpListener\BasicServerHTTPlistener.csproj", "{1FDD19DD-336D-4F00-93A9-1E3390EEA577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serveurBasique", "..\question3\serveurBasique\serveurBasique.csproj", "{27BE8F0C-1379-4A0E-A96F-79EE96D612AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,6 +28,14 @@ Global
 		{7269563B-8C67-476C-B2B7-515661ACA003}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7269563B-8C67-476C-B2B7-515661ACA003}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7269563B-8C67-476C-B2B7-515661ACA003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDD19DD-336D-4F00-93A9-1E3390EEA577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDD19DD-336D-4F00-93A9-1E3390EEA577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDD19DD-336D-4F00-93A9-1E3390EEA577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDD19DD-336D-4F00-93A9-1E3390EEA577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27BE8F0C-1379-4A0E-A96F-79EE96D612AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27BE8F0C-1379-4A0E-A96F-79EE96D612AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27BE8F0C-1379-4A0E-A96F-79EE96D612AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27BE8F0C-1379-4A0E-A96F-79EE96D612AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

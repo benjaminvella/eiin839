@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PC-i7-Julien\\Desktop\\cours\\SI4\\deuxième semestre\\soc\\tds\\td1\\forkGitHub\\eiin839\\TP1\\Echo\\ChatServer\\EchoServer.csproj",
-      "projectName": "EchoServer",
-      "projectPath": "C:\\Users\\PC-i7-Julien\\Desktop\\cours\\SI4\\deuxième semestre\\soc\\tds\\td1\\forkGitHub\\eiin839\\TP1\\Echo\\ChatServer\\EchoServer.csproj",
+      "projectUniqueName": "C:\\Users\\PC-i7-Julien\\Desktop\\cours\\SI4\\deuxième semestre\\soc\\tds\\td1\\forkGitHub\\eiin839\\TP1\\question3\\serveurBasique\\serveurBasique.csproj",
+      "projectName": "serveurBasique",
+      "projectPath": "C:\\Users\\PC-i7-Julien\\Desktop\\cours\\SI4\\deuxième semestre\\soc\\tds\\td1\\forkGitHub\\eiin839\\TP1\\question3\\serveurBasique\\serveurBasique.csproj",
       "packagesPath": "C:\\Users\\PC-i7-Julien\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PC-i7-Julien\\Desktop\\cours\\SI4\\deuxième semestre\\soc\\tds\\td1\\forkGitHub\\eiin839\\TP1\\Echo\\ChatServer\\obj\\",
+      "outputPath": "C:\\Users\\PC-i7-Julien\\Desktop\\cours\\SI4\\deuxième semestre\\soc\\tds\\td1\\forkGitHub\\eiin839\\TP1\\question3\\serveurBasique\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
