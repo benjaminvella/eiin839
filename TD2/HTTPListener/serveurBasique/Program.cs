@@ -10,7 +10,7 @@ namespace serveurBasique
     internal class Program
     {
 
-        static string INDEXCONTENT = "C:/Users/PC-i7-Julien/Desktop/cours/SI4/deuxième semestre/soc/tds/td1/forkGitHub/eiin839/TP1/question3/serveurBasique/www/pub/";
+        static string INDEXCONTENT = "C:/Users/PC-i7-Julien/Desktop/cours/SI4/deuxième semestre/soc/tds/td1/forkGitHub/eiin839/TD2/HTTPListener/serveurBasique/www/pub/";
 
         private static void Main(string[] args)
         {

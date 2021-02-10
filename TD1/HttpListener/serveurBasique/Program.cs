@@ -9,8 +9,7 @@ namespace serveurBasique
 {
     internal class Program
     {
-
-        static string INDEXCONTENT = "C:/Users/PC-i7-Julien/Desktop/cours/SI4/deuxième semestre/soc/tds/td1/forkGitHub/eiin839/TP1/question3/serveurBasique/www/pub/";
+        static string INDEXCONTENT = "C:/Users/PC-i7-Julien/Desktop/cours/SI4/deuxième semestre/soc/tds/td1/forkGitHub/eiin839/TD1/HttpListener/serveurBasique/www/pub/";
 
         private static void Main(string[] args)
         {
@@ -72,7 +71,7 @@ namespace serveurBasique
 
                 if (request.RawUrl == "/index.html")
                 {
-                   Header header = new Header(request);
+                    Header header = new Header(request);
                     responseString = "<HTML><BODY> 200 </p> </BODY></HTML>";
                     string path = INDEXCONTENT + request.RawUrl;
                     using (StreamReader sr = File.OpenText(path))
@@ -87,6 +86,8 @@ namespace serveurBasique
                 }
                 else
                 {
+                    Header header = new Header(request);
+                    Console.WriteLine(header.printUsefulHeaders());
                     responseString = "<HTML><BODY> 404 </BODY></HTML>";
                 }
 
