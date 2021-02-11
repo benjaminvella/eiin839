@@ -10,7 +10,7 @@ namespace BasicServerHTTPlistener
     {
         private static void Main(string[] args)
         {
-            
+
 
             if (!HttpListener.IsSupported)
             {

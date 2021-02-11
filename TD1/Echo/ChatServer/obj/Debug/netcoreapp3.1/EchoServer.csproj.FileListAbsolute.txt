@@ -36,3 +36,16 @@ A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatServer\o
 A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.dll
 A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
 A:\Enseignement\Web_Server_and_Client\Web_Server_and_Client - Copie\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache
+D:\travail\SOC\eiin839\TD1\Echo\ChatServer\bin\Debug\netcoreapp3.1\EchoServer.exe
+D:\travail\SOC\eiin839\TD1\Echo\ChatServer\bin\Debug\netcoreapp3.1\EchoServer.deps.json
+D:\travail\SOC\eiin839\TD1\Echo\ChatServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.json
+D:\travail\SOC\eiin839\TD1\Echo\ChatServer\bin\Debug\netcoreapp3.1\EchoServer.runtimeconfig.dev.json
+D:\travail\SOC\eiin839\TD1\Echo\ChatServer\bin\Debug\netcoreapp3.1\EchoServer.dll
+D:\travail\SOC\eiin839\TD1\Echo\ChatServer\bin\Debug\netcoreapp3.1\EchoServer.pdb
+D:\travail\SOC\eiin839\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.csprojAssemblyReference.cache
+D:\travail\SOC\eiin839\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfoInputs.cache
+D:\travail\SOC\eiin839\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.AssemblyInfo.cs
+D:\travail\SOC\eiin839\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.csproj.CoreCompileInputs.cache
+D:\travail\SOC\eiin839\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.dll
+D:\travail\SOC\eiin839\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.pdb
+D:\travail\SOC\eiin839\TD1\Echo\ChatServer\obj\Debug\netcoreapp3.1\EchoServer.genruntimeconfig.cache

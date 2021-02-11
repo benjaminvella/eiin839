@@ -96,6 +96,7 @@ namespace BasicServerHTTPlistener
 
                 Console.WriteLine(request.Url.Query);
 
+
                 //parse params in url
                 Console.WriteLine("param1 = " + HttpUtility.ParseQueryString(request.Url.Query).Get("param1"));
                 Console.WriteLine("param2 = " + HttpUtility.ParseQueryString(request.Url.Query).Get("param2"));
@@ -117,9 +118,23 @@ namespace BasicServerHTTPlistener
                 output.Write(buffer, 0, buffer.Length);
                 // You must close the output stream.
                 output.Close();
+
+                Header header = new Header(); 
+                header.showHeader(request);
             }
             // Httplistener neither stop ... But Ctrl-C do that ...
             // listener.Stop();
+        }
+    }
+
+    public class Header
+    {
+        public void showHeader(HttpListenerRequest request)
+        {         
+            foreach (var key in request.Headers.AllKeys)
+            {
+                Console.WriteLine("Header " + key + "");
+            }
         }
     }
 }
