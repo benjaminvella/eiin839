@@ -97,10 +97,15 @@ namespace BasicServerHTTPlistener
                 Console.WriteLine(request.Url.Query);
                 // TODO
                 //parse params in url
-                Console.WriteLine("param1 = " + HttpUtility.ParseQueryString(request.Url.Query).Get("param1"));
-                Console.WriteLine("param2 = " + HttpUtility.ParseQueryString(request.Url.Query).Get("param2"));
-                Console.WriteLine("param3 = " + HttpUtility.ParseQueryString(request.Url.Query).Get("param3"));
-                Console.WriteLine("param4 = " + HttpUtility.ParseQueryString(request.Url.Query).Get("param4"));
+                string param1, param2, param3, param4;
+                param1 = HttpUtility.ParseQueryString(request.Url.Query).Get("param1");
+                param2 = HttpUtility.ParseQueryString(request.Url.Query).Get("param2");
+                param3 = HttpUtility.ParseQueryString(request.Url.Query).Get("param3");
+                param4 = HttpUtility.ParseQueryString(request.Url.Query).Get("param4");
+                Console.WriteLine("param1 = " +param1);
+                Console.WriteLine("param2 = " + param2);
+                Console.WriteLine("param3 = " + param3);
+                Console.WriteLine("param4 = " + param4);
 
                 //
                 Console.WriteLine(documentContents);
@@ -109,7 +114,7 @@ namespace BasicServerHTTPlistener
                 HttpListenerResponse response = context.Response;
                 // TODO
                 // Construct a response.
-                string responseString = "<HTML><BODY> Hello world!</BODY></HTML>";
+                string responseString = dynamiquePage(param1, param2, param3,param4);
                 byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
                 // Get a response stream and write the response to it.
                 response.ContentLength64 = buffer.Length;
@@ -120,6 +125,29 @@ namespace BasicServerHTTPlistener
             }
             // Httplistener neither stop ... But Ctrl-C do that ...
             // listener.Stop();
+        }
+
+        static  string dynamiquePage(string param1, string param2, string param3, string param4)
+        {
+            string toRet = "";
+            toRet += "<html><body>Hello world!";
+            if (param1 != null)
+            {
+                toRet += "<h3>param1 = " + param1+"\n</h3>";
+            }
+            if(param2 != null)
+            {
+                toRet += "<h3>param2 = " + param2 + "\n</h3>";
+            }
+            if(param3 != null)
+            {
+                toRet += "<h3>param3 = " + param3 + "\n</h3>";
+            }
+            if(param4 != null)
+            {
+                toRet += "<h3>param4 = " + param4 + "\n</h3>";
+            }
+            return toRet+"</body></html>";
         }
     }
 }

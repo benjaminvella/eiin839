@@ -1,2 +1,7 @@
 C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\DynamiqueWebServer\obj\Debug\DynamiqueWebServer.csprojAssemblyReference.cache
 C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\DynamiqueWebServer\obj\Debug\DynamiqueWebServer.csproj.CoreCompileInputs.cache
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\DynamiqueWebServer\bin\Debug\DynamiqueWebServer.exe.config
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\DynamiqueWebServer\bin\Debug\DynamiqueWebServer.exe
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\DynamiqueWebServer\bin\Debug\DynamiqueWebServer.pdb
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\DynamiqueWebServer\obj\Debug\DynamiqueWebServer.exe
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\DynamiqueWebServer\obj\Debug\DynamiqueWebServer.pdb
