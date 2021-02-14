@@ -1,0 +1,14 @@
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\obj\Debug\ExecTest.csprojAssemblyReference.cache
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\obj\Debug\ExecTest.csproj.CoreCompileInputs.cache
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\bin\Debug\ExecTest.exe.config
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\bin\Debug\ExecTest.exe
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\bin\Debug\ExecTest.pdb
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\obj\Debug\ExecTest.exe
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\obj\Debug\ExecTest.pdb
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ExecTest\bin\Debug\ExecTest.exe.config
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ExecTest\bin\Debug\ExecTest.exe
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ExecTest\bin\Debug\ExecTest.pdb
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ExecTest\obj\Debug\ExecTest.csprojAssemblyReference.cache
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ExecTest\obj\Debug\ExecTest.csproj.CoreCompileInputs.cache
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ExecTest\obj\Debug\ExecTest.exe
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ExecTest\obj\Debug\ExecTest.pdb

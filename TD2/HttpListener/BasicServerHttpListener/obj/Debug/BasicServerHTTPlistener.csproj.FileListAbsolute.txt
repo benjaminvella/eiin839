@@ -1,0 +1,34 @@
+C:\Users\jean-yves\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\jean-yves\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\jean-yves\source\repos\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\jean-yves\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
+C:\Users\jean-yves\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\jean-yves\source\repos\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Users\jean-yves\source\repos\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe.config
+C:\Users\jean-yves\source\repos\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe
+C:\Users\jean-yves\source\repos\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.pdb
+C:\Users\jean-yves\source\repos\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csprojAssemblyReference.cache
+C:\Users\jean-yves\source\repos\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
+C:\Users\jean-yves\source\repos\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
+C:\Users\jean-yves\source\repos\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
+A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe.config
+A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe
+A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.pdb
+A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csprojAssemblyReference.cache
+A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
+A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
+A:\Enseignement\HttpListener - Copie\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe.config
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.pdb
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csprojAssemblyReference.cache
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
+C:\Users\jean-yves\Source\Repos\benjaminvella\eiin839\TP1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe.config
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.pdb
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csprojAssemblyReference.cache
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb

@@ -1,0 +1,14 @@
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\obj\Debug\ReflectionSample.csprojAssemblyReference.cache
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\obj\Debug\ReflectionSample.csproj.CoreCompileInputs.cache
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\bin\Debug\ReflectionSample.exe.config
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\bin\Debug\ReflectionSample.exe
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\bin\Debug\ReflectionSample.pdb
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\obj\Debug\ReflectionSample.exe
+D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\obj\Debug\ReflectionSample.pdb
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ReflectionSample\bin\Debug\ReflectionSample.exe.config
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ReflectionSample\bin\Debug\ReflectionSample.exe
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ReflectionSample\bin\Debug\ReflectionSample.pdb
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ReflectionSample\obj\Debug\ReflectionSample.csprojAssemblyReference.cache
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ReflectionSample\obj\Debug\ReflectionSample.csproj.CoreCompileInputs.cache
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ReflectionSample\obj\Debug\ReflectionSample.exe
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\ReflectionSample\obj\Debug\ReflectionSample.pdb

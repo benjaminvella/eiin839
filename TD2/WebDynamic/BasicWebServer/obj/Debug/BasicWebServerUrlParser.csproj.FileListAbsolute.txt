@@ -1,0 +1,14 @@
+C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\bin\Debug\BasicWebServer.exe.config
+C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\bin\Debug\BasicWebServer.exe
+C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\bin\Debug\BasicWebServer.pdb
+C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\obj\Debug\BasicWebServerUrlParser.csprojAssemblyReference.cache
+C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\obj\Debug\BasicWebServerUrlParser.csproj.CoreCompileInputs.cache
+C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\obj\Debug\BasicWebServer.exe
+C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\obj\Debug\BasicWebServer.pdb
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\BasicWebServer\bin\Debug\BasicWebServer.exe.config
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\BasicWebServer\bin\Debug\BasicWebServer.exe
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\BasicWebServer\bin\Debug\BasicWebServer.pdb
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\BasicWebServer\obj\Debug\BasicWebServerUrlParser.csprojAssemblyReference.cache
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\BasicWebServer\obj\Debug\BasicWebServerUrlParser.csproj.CoreCompileInputs.cache
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\BasicWebServer\obj\Debug\BasicWebServer.exe
+C:\Users\dyiem\OneDrive\Bureau\Cours SI4\Semestre 8\Service oriented computing\TD\Mon premier serveur web dans mon serveur TCP-IP Socket\Forked\eiin839\TD2\WebDynamic\BasicWebServer\obj\Debug\BasicWebServer.pdb
