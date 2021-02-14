@@ -11,7 +11,7 @@ class Program
         // https://www.dotnetperls.com/process
         //
         ProcessStartInfo start = new ProcessStartInfo();
-        start.FileName = @"D:\ENSEIGNEMENTS\SoCWS SI4\TD2\BasicExamplesTD2\ExecTest\bin\Debug\ExecTest.exe"; // Specify exe name.
+        start.FileName = @"C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExecTest\bin\Debug\ExecTest.exe"; // Specify exe name.
         start.Arguments = "Argument1"; // Specify arguments.
         start.UseShellExecute = false; 
         start.RedirectStandardOutput = true;
@@ -26,6 +26,7 @@ class Program
             using (StreamReader reader = process.StandardOutput)
             {
                 string result = reader.ReadToEnd();
+                Console.WriteLine("!!!!!!!!!!!!!!! result = " + result);
                 Console.WriteLine(result);
                 Console.ReadLine();
             }

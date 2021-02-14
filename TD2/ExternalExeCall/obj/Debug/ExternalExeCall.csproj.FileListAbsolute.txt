@@ -12,3 +12,10 @@ D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExternalExeCall\
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExternalExeCall\obj\Debug\ExternalExeCall.csproj.CoreCompileInputs.cache
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExternalExeCall\obj\Debug\ExternalExeCall.exe
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExternalExeCall\obj\Debug\ExternalExeCall.pdb
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExternalExeCall\bin\Debug\ExternalExeCall.exe.config
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExternalExeCall\bin\Debug\ExternalExeCall.exe
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExternalExeCall\bin\Debug\ExternalExeCall.pdb
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExternalExeCall\obj\Debug\ExternalExeCall.csprojAssemblyReference.cache
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExternalExeCall\obj\Debug\ExternalExeCall.csproj.CoreCompileInputs.cache
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExternalExeCall\obj\Debug\ExternalExeCall.exe
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExternalExeCall\obj\Debug\ExternalExeCall.pdb

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DynamiqueWebServer;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
@@ -95,33 +96,42 @@ namespace BasicServerHTTPlistener
                 //get params un url. After ? and between &
 
                 Console.WriteLine(request.Url.Query);
-                // TODO
+
                 //parse params in url
                 string param1, param2, param3, param4;
                 param1 = HttpUtility.ParseQueryString(request.Url.Query).Get("param1");
                 param2 = HttpUtility.ParseQueryString(request.Url.Query).Get("param2");
                 param3 = HttpUtility.ParseQueryString(request.Url.Query).Get("param3");
                 param4 = HttpUtility.ParseQueryString(request.Url.Query).Get("param4");
-                Console.WriteLine("param1 = " +param1);
+                Console.WriteLine("param1 = " + param1);
                 Console.WriteLine("param2 = " + param2);
                 Console.WriteLine("param3 = " + param3);
                 Console.WriteLine("param4 = " + param4);
 
-                //
                 Console.WriteLine(documentContents);
 
                 // Obtain a response object.
                 HttpListenerResponse response = context.Response;
-                // TODO
+
                 // Construct a response.
-                string responseString = dynamiquePage(param1, param2, param3,param4);
-                byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
-                // Get a response stream and write the response to it.
-                response.ContentLength64 = buffer.Length;
-                System.IO.Stream output = response.OutputStream;
-                output.Write(buffer, 0, buffer.Length);
-                // You must close the output stream.
-                output.Close();
+                string responseString;
+                if (request.Url.LocalPath.Contains("MyMethod"))
+                {
+                    Mymethods mymethod = new Mymethods(param1, param2, response);
+                    mymethod.executionHTML();
+                }
+                else
+                {
+                    responseString = dynamiquePage(param1, param2, param3, param4);
+                    byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
+                    // Get a response stream and write the response to it.
+                    response.ContentLength64 = buffer.Length;
+                    System.IO.Stream output = response.OutputStream;
+                    output.Write(buffer, 0, buffer.Length);
+                    // You must close the output stream.
+                    output.Close();
+                }
+                
             }
             // Httplistener neither stop ... But Ctrl-C do that ...
             // listener.Stop();

@@ -5,3 +5,10 @@ D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\bin\Deb
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\bin\Debug\ExecTest.pdb
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\obj\Debug\ExecTest.exe
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\obj\Debug\ExecTest.pdb
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExecTest\bin\Debug\ExecTest.exe.config
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExecTest\bin\Debug\ExecTest.exe
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExecTest\bin\Debug\ExecTest.pdb
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExecTest\obj\Debug\ExecTest.csprojAssemblyReference.cache
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExecTest\obj\Debug\ExecTest.csproj.CoreCompileInputs.cache
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExecTest\obj\Debug\ExecTest.exe
+C:\Users\Anas1\Desktop\SI4\S2\Web-Service\TD2\eiin839\TD2\ExecTest\obj\Debug\ExecTest.pdb
