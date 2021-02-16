@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TD1",
+    "\\TD2",
+    "\\TD2\\HttpListener",
+    "\\TD2\\HttpListener\\BasicServerHttpListener"
+  ],
+  "SelectedNode": "\\TD2\\HttpListener\\HttpListener.sln",
+  "PreviewInSolutionExplorer": false
+}

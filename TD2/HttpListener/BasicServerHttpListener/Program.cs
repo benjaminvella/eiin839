@@ -51,6 +51,8 @@ namespace BasicServerHTTPlistener
                 Console.WriteLine("Listening for connections on " + s);
             }
 
+            Header header = new Header();
+
             while (true)
             {
                 // Note: The GetContext method blocks while waiting for a request.
@@ -67,6 +69,8 @@ namespace BasicServerHTTPlistener
                 }
                 Console.WriteLine($"Received request for {request.Url}");
                 Console.WriteLine(documentContents);
+
+                header.GetHeader(request); // headers to display through the console
 
                 // Obtain a response object.
                 HttpListenerResponse response = context.Response;
