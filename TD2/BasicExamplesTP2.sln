@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalExeCall", "External
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicWebServerUrlParser", "BasicWebServer\BasicWebServerUrlParser.csproj", "{B6A28AAE-DA86-41D3-8A15-9B529A3AD71C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamiqueWebServer", "DynamiqueWebServer\DynamiqueWebServer.csproj", "{14502ECA-E50C-4589-A7E9-8208732BF6E6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDynamic", "WebDynamic\WebDynamic.csproj", "{14502ECA-E50C-4589-A7E9-8208732BF6E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
