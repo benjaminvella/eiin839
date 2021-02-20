@@ -1,0 +1,13 @@
+C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\Methode\bin\Debug\netcoreapp3.1\Methode.exe
+C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\Methode\bin\Debug\netcoreapp3.1\Methode.deps.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\Methode\bin\Debug\netcoreapp3.1\Methode.runtimeconfig.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\Methode\bin\Debug\netcoreapp3.1\Methode.runtimeconfig.dev.json
+C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\Methode\bin\Debug\netcoreapp3.1\Methode.dll
+C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\Methode\bin\Debug\netcoreapp3.1\Methode.pdb
+C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\Methode\obj\Debug\netcoreapp3.1\Methode.AssemblyInfoInputs.cache
+C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\Methode\obj\Debug\netcoreapp3.1\Methode.AssemblyInfo.cs
+C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\Methode\obj\Debug\netcoreapp3.1\Methode.csproj.CoreCompileInputs.cache
+C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\Methode\obj\Debug\netcoreapp3.1\Methode.dll
+C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\Methode\obj\Debug\netcoreapp3.1\Methode.pdb
+C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\Methode\obj\Debug\netcoreapp3.1\Methode.genruntimeconfig.cache
+C:\Users\R-mann\Documents\GitHub\eiin839\TD2\WebDynamic\Methode\obj\Debug\netcoreapp3.1\Methode.csprojAssemblyReference.cache
