@@ -118,19 +118,19 @@ namespace BasicServerHTTPlistener
                 //Question 4
                 string[] requestQuery = request.Url.Query.Split('&');
 
-                if (request.Url.Segments[request.Url.Segments.Length - 1].Equals("myMethod") && requestQuery.Length == 2)
+                if (requestQuery.Length == 2)
                 {
                     if (request.Url.Query.Contains("param1") && request.Url.Query.Contains("param2"))
                     {
                         string param1 = HttpUtility.ParseQueryString(request.Url.Query).Get("param1");
                         string param2 = HttpUtility.ParseQueryString(request.Url.Query).Get("param2");
                         Type type = typeof(MyMethods);
-                        MethodInfo method = type.GetMethod("MyMethod");
+                        MethodInfo method = type.GetMethod(request.Url.Segments[request.Url.Segments.Length - 1]);
                         MyMethods myMethods = new MyMethods();
-                        responseString = (string) method.Invoke(myMethods, new string[2] { param1, param2});
-                        ProcessStartInfo start = new ProcessStartInfo();
+                        responseString = (string) method.Invoke(myMethods, new string[2] { param1, param2 });
 
                         //Question 5
+                        ProcessStartInfo start = new ProcessStartInfo();
                         start.FileName = @"D:\travail\SOC\eiin839\TD2\MyMethod\bin\Debug\netcoreapp3.1\MyMethod.exe";
                         start.Arguments = "" + param1 + " " + param2;
                         start.UseShellExecute = false;
