@@ -1,14 +1,13 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
 using System.Net;
 using System.Reflection;
 using System.Text;
 using System.Web;
 
-namespace BasicServerHTTPlistener
+namespace WebDynamic
 {
-    internal class Program
+    class Program
     {
         private static void Main(string[] args)
         {
@@ -19,8 +18,8 @@ namespace BasicServerHTTPlistener
                 Console.WriteLine("A more recent Windows version is required to use the HttpListener class.");
                 return;
             }
- 
- 
+
+
             // Create a listener.
             HttpListener listener = new HttpListener();
 
@@ -50,7 +49,8 @@ namespace BasicServerHTTPlistener
             }
 
             // Trap Ctrl-C on console to exit 
-            Console.CancelKeyPress += delegate {
+            Console.CancelKeyPress += delegate
+            {
                 // call methods to close socket and exit
                 listener.Stop();
                 listener.Close();
@@ -72,7 +72,7 @@ namespace BasicServerHTTPlistener
                         documentContents = readStream.ReadToEnd();
                     }
                 }
-                
+
                 // get url 
                 Console.WriteLine($"Received request for {request.Url}");
 
@@ -97,12 +97,8 @@ namespace BasicServerHTTPlistener
 
                 Console.WriteLine(request.Url.Query);
 
-
-                //parse params in url
-                Console.WriteLine("param1 = " + HttpUtility.ParseQueryString(request.Url.Query).Get("param1"));
-                Console.WriteLine("param2 = " + HttpUtility.ParseQueryString(request.Url.Query).Get("param2"));
-                Console.WriteLine("param3 = " + HttpUtility.ParseQueryString(request.Url.Query).Get("param3"));
-                Console.WriteLine("param4 = " + HttpUtility.ParseQueryString(request.Url.Query).Get("param4"));
+                string param1 = HttpUtility.ParseQueryString(request.Url.Query).Get("param1");
+                string param2 = HttpUtility.ParseQueryString(request.Url.Query).Get("param1");
 
                 //
                 Console.WriteLine(documentContents);
@@ -110,24 +106,12 @@ namespace BasicServerHTTPlistener
                 // Obtain a response object.
                 HttpListenerResponse response = context.Response;
 
+                Type type = typeof(MyMethods);
+                MethodInfo method = type.GetMethod("MyMethod");
+                MyMethods myMethods = new MyMethods();
+                string responseString = (string)method.Invoke(myMethods, null);
+
                 // Construct a response.
-                string responseString = "<HTML><BODY> Hello world!</BODY></HTML>";
-
-
-                //Question 4
-                string[] requestQuery = request.Url.Query.Split('&');
-
-                if (request.Url.Segments[request.Url.Segments.Length - 1].Equals("myMethod") && requestQuery.Length == 2)
-                {
-                    if (request.Url.Query.Contains("param1") && request.Url.Query.Contains("param2"))
-                    {
-                        Type type = typeof(MyMethods);
-                        MethodInfo method = type.GetMethod("MyMethod");
-                        MyMethods myMethods = new MyMethods();
-                        responseString = (string)method.Invoke(myMethods, new string[2] { HttpUtility.ParseQueryString(request.Url.Query).Get("param1"), HttpUtility.ParseQueryString(request.Url.Query).Get("param2") });
-                    }
-                }
-
                 byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
                 // Get a response stream and write the response to it.
                 response.ContentLength64 = buffer.Length;
@@ -135,23 +119,9 @@ namespace BasicServerHTTPlistener
                 output.Write(buffer, 0, buffer.Length);
                 // You must close the output stream.
                 output.Close();
-
-                Header header = new Header(); 
-                header.showHeader(request);
             }
             // Httplistener neither stop ... But Ctrl-C do that ...
             // listener.Stop();
-        }
-    }
-
-    public class Header
-    {
-        public void showHeader(HttpListenerRequest request)
-        {         
-            foreach (var key in request.Headers.AllKeys)
-            {
-                Console.WriteLine("Header " + key + "");
-            }
         }
     }
 
