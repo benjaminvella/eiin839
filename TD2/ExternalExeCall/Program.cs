@@ -10,11 +10,13 @@ class Program
         // Set up the process with the ProcessStartInfo class.
         // https://www.dotnetperls.com/process
         //
-        ProcessStartInfo start = new ProcessStartInfo();
-        start.FileName = @"D:\ENSEIGNEMENTS\SoCWS SI4\TD2\BasicExamplesTD2\ExecTest\bin\Debug\ExecTest.exe"; // Specify exe name.
-        start.Arguments = "Argument1"; // Specify arguments.
-        start.UseShellExecute = false; 
-        start.RedirectStandardOutput = true;
+        ProcessStartInfo start = new ProcessStartInfo
+        {
+            FileName = @"D:\ENSEIGNEMENTS\SoCWS SI4\TD2\BasicExamplesTD2\ExecTest\bin\Debug\ExecTest.exe", // Specify exe name.
+            Arguments = "Argument1", // Specify arguments.
+            UseShellExecute = false,
+            RedirectStandardOutput = true
+        };
         //
         // Start the process.
         //
