@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Net;
 using System.Reflection;
@@ -111,7 +112,7 @@ namespace BasicServerHTTPlistener
                 HttpListenerResponse response = context.Response;
 
                 // Construct a response.
-                string responseString = "<HTML><BODY> Hello world!</BODY></HTML>";
+                string responseString = "<HTML><BODY>Hello world!</BODY></HTML>";
 
 
                 //Question 4
@@ -121,10 +122,27 @@ namespace BasicServerHTTPlistener
                 {
                     if (request.Url.Query.Contains("param1") && request.Url.Query.Contains("param2"))
                     {
+                        string param1 = HttpUtility.ParseQueryString(request.Url.Query).Get("param1");
+                        string param2 = HttpUtility.ParseQueryString(request.Url.Query).Get("param2");
                         Type type = typeof(MyMethods);
                         MethodInfo method = type.GetMethod("MyMethod");
                         MyMethods myMethods = new MyMethods();
-                        responseString = (string)method.Invoke(myMethods, new string[2] { HttpUtility.ParseQueryString(request.Url.Query).Get("param1"), HttpUtility.ParseQueryString(request.Url.Query).Get("param2") });
+                        responseString = (string) method.Invoke(myMethods, new string[2] { param1, param2});
+                        ProcessStartInfo start = new ProcessStartInfo();
+
+                        //Question 5
+                        start.FileName = @"D:\travail\SOC\eiin839\TD2\MyMethod\bin\Debug\netcoreapp3.1\MyMethod.exe";
+                        start.Arguments = "" + param1 + " " + param2;
+                        start.UseShellExecute = false;
+                        start.RedirectStandardOutput = true;
+                        using (Process process = Process.Start(start))
+                        {
+                            using (StreamReader reader = process.StandardOutput)
+                            {
+                                string result = reader.ReadToEnd();
+                                responseString += "<BR>" + result;
+                            }
+                        }
                     }
                 }
 
@@ -159,7 +177,7 @@ namespace BasicServerHTTPlistener
     {
         public string MyMethod(string param1, string param2)
         {
-            return "<HTML><BODY> Hello " + param1 + " et " + param2 + "</BODY></HTML>";
+            return "<HTML><BODY> Question 4 : Hello " + param1 + " et " + param2 + "</BODY></HTML>";
         }
     }
 }

@@ -1,0 +1,13 @@
+D:\travail\SOC\eiin839\TD2\MyMethod\bin\Debug\netcoreapp3.1\MyMethod.exe
+D:\travail\SOC\eiin839\TD2\MyMethod\bin\Debug\netcoreapp3.1\MyMethod.deps.json
+D:\travail\SOC\eiin839\TD2\MyMethod\bin\Debug\netcoreapp3.1\MyMethod.runtimeconfig.json
+D:\travail\SOC\eiin839\TD2\MyMethod\bin\Debug\netcoreapp3.1\MyMethod.runtimeconfig.dev.json
+D:\travail\SOC\eiin839\TD2\MyMethod\bin\Debug\netcoreapp3.1\MyMethod.dll
+D:\travail\SOC\eiin839\TD2\MyMethod\bin\Debug\netcoreapp3.1\MyMethod.pdb
+D:\travail\SOC\eiin839\TD2\MyMethod\obj\Debug\netcoreapp3.1\MyMethod.csprojAssemblyReference.cache
+D:\travail\SOC\eiin839\TD2\MyMethod\obj\Debug\netcoreapp3.1\MyMethod.AssemblyInfoInputs.cache
+D:\travail\SOC\eiin839\TD2\MyMethod\obj\Debug\netcoreapp3.1\MyMethod.AssemblyInfo.cs
+D:\travail\SOC\eiin839\TD2\MyMethod\obj\Debug\netcoreapp3.1\MyMethod.csproj.CoreCompileInputs.cache
+D:\travail\SOC\eiin839\TD2\MyMethod\obj\Debug\netcoreapp3.1\MyMethod.dll
+D:\travail\SOC\eiin839\TD2\MyMethod\obj\Debug\netcoreapp3.1\MyMethod.pdb
+D:\travail\SOC\eiin839\TD2\MyMethod\obj\Debug\netcoreapp3.1\MyMethod.genruntimeconfig.cache
