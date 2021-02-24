@@ -131,7 +131,6 @@ namespace BasicServerHTTPlistener
                     // You must close the output stream.
                     output.Close();
                 }
-                
             }
             // Httplistener neither stop ... But Ctrl-C do that ...
             // listener.Stop();
