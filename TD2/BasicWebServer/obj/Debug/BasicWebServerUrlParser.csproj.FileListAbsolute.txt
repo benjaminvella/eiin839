@@ -1,7 +1,0 @@
-C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\bin\Debug\BasicWebServer.exe.config
-C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\bin\Debug\BasicWebServer.exe
-C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\bin\Debug\BasicWebServer.pdb
-C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\obj\Debug\BasicWebServerUrlParser.csprojAssemblyReference.cache
-C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\obj\Debug\BasicWebServerUrlParser.csproj.CoreCompileInputs.cache
-C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\obj\Debug\BasicWebServer.exe
-C:\Users\Utopsia\test\eiin839\TD2\BasicWebServer\obj\Debug\BasicWebServer.pdb
