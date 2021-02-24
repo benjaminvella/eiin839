@@ -1,7 +1,0 @@
-D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\obj\Debug\ReflectionSample.csprojAssemblyReference.cache
-D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\obj\Debug\ReflectionSample.csproj.CoreCompileInputs.cache
-D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\bin\Debug\ReflectionSample.exe.config
-D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\bin\Debug\ReflectionSample.exe
-D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\bin\Debug\ReflectionSample.pdb
-D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\obj\Debug\ReflectionSample.exe
-D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ReflectionSample\obj\Debug\ReflectionSample.pdb
