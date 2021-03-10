@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- The title of the page is written in the tab of the browser. -->
+    <title>My first Web Services UI client</title>
+
+    <!-- Let's load the CSS file.
+    Note: we could also write the style directly in the html page, inside a <style> tag. -->
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+    <!-- We will use a <div> to group all items related to the API key, to ease the styling. -->
+    <div id="apiKeyBlock">
+        <!-- The "for" attribute of a label is linked to the id of an input -->
+        <label for="apiKey">API key:</label>
+        <input name="apiKeyInput" id="apiKey">
+    </div>
+
+    <div id="step1" class="step">
+        <h2>Step 1: Retrieve all JCDecaux contracts</h2>
+        <!-- onclick is an attribute that contains javascript code, triggered when the element is clicked. -->
+        <button id="retrieveContractsButton" onclick="retrieveAllContracts();">Retrieve contracts</button>
+    </div>
+
+    <!-- Let's load the JS file.
+    Note: we could also write the javascript directly in the html page, inside a <script> tag. -->
+    <script type="text/javascript" src="main.js"></script>
+</body>
+</html>
