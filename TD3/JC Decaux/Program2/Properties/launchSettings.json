@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Program2": {
+      "commandName": "Project",
+      "commandLineArgs": "rouen Lyon"
+    }
+  }
+}

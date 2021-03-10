@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "yPNtHRLj1Q5cc7GfeCb8N2OplvZofqyj3SEDPzyUlSEYrUBB50+XJcoIahtlN2aNp+VYWlKNaJ/AwXtsbFXvvg==",
+  "success": true,
+  "projectFilePath": "D:\\travail\\SOC\\eiin839\\TD3\\JC Decaux\\Program3\\Program3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meter\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\meter\\.nuget\\packages\\system.net.http.winhttphandler\\4.4.0\\system.net.http.winhttphandler.4.4.0.nupkg.sha512",
+    "C:\\Users\\meter\\.nuget\\packages\\system.private.servicemodel\\4.4.4\\system.private.servicemodel.4.4.4.nupkg.sha512",
+    "C:\\Users\\meter\\.nuget\\packages\\system.reflection.dispatchproxy\\4.4.0\\system.reflection.dispatchproxy.4.4.0.nupkg.sha512",
+    "C:\\Users\\meter\\.nuget\\packages\\system.security.principal.windows\\4.4.0\\system.security.principal.windows.4.4.0.nupkg.sha512",
+    "C:\\Users\\meter\\.nuget\\packages\\system.servicemodel.duplex\\4.4.4\\system.servicemodel.duplex.4.4.4.nupkg.sha512",
+    "C:\\Users\\meter\\.nuget\\packages\\system.servicemodel.http\\4.4.4\\system.servicemodel.http.4.4.4.nupkg.sha512",
+    "C:\\Users\\meter\\.nuget\\packages\\system.servicemodel.nettcp\\4.4.4\\system.servicemodel.nettcp.4.4.4.nupkg.sha512",
+    "C:\\Users\\meter\\.nuget\\packages\\system.servicemodel.primitives\\4.4.4\\system.servicemodel.primitives.4.4.4.nupkg.sha512",
+    "C:\\Users\\meter\\.nuget\\packages\\system.servicemodel.security\\4.4.4\\system.servicemodel.security.4.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

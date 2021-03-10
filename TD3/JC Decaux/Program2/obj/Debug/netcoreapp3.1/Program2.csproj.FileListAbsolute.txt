@@ -1,0 +1,13 @@
+D:\travail\SOC\eiin839\TD3\JC Decaux\Program2\bin\Debug\netcoreapp3.1\Program2.exe
+D:\travail\SOC\eiin839\TD3\JC Decaux\Program2\bin\Debug\netcoreapp3.1\Program2.deps.json
+D:\travail\SOC\eiin839\TD3\JC Decaux\Program2\bin\Debug\netcoreapp3.1\Program2.runtimeconfig.json
+D:\travail\SOC\eiin839\TD3\JC Decaux\Program2\bin\Debug\netcoreapp3.1\Program2.runtimeconfig.dev.json
+D:\travail\SOC\eiin839\TD3\JC Decaux\Program2\bin\Debug\netcoreapp3.1\Program2.dll
+D:\travail\SOC\eiin839\TD3\JC Decaux\Program2\bin\Debug\netcoreapp3.1\Program2.pdb
+D:\travail\SOC\eiin839\TD3\JC Decaux\Program2\obj\Debug\netcoreapp3.1\Program2.AssemblyInfoInputs.cache
+D:\travail\SOC\eiin839\TD3\JC Decaux\Program2\obj\Debug\netcoreapp3.1\Program2.AssemblyInfo.cs
+D:\travail\SOC\eiin839\TD3\JC Decaux\Program2\obj\Debug\netcoreapp3.1\Program2.csproj.CoreCompileInputs.cache
+D:\travail\SOC\eiin839\TD3\JC Decaux\Program2\obj\Debug\netcoreapp3.1\Program2.dll
+D:\travail\SOC\eiin839\TD3\JC Decaux\Program2\obj\Debug\netcoreapp3.1\Program2.pdb
+D:\travail\SOC\eiin839\TD3\JC Decaux\Program2\obj\Debug\netcoreapp3.1\Program2.genruntimeconfig.cache
+D:\travail\SOC\eiin839\TD3\JC Decaux\Program2\obj\Debug\netcoreapp3.1\Program2.csprojAssemblyReference.cache
