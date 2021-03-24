@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <!-- The title of the page is written in the tab of the browser. -->
+    <title>My first Web Services UI client</title>
+
+    <!-- Let's load the CSS file.
+    Note: we could also write the style directly in the html page, inside a <style> tag. -->
+    <link rel="stylesheet" href="main.css">
+</head>
+<body>
+
+    <!-- We will use a <div> to group all items related to the API key, to ease the styling. -->
+    <div id="apiKeyBlock">
+        <!-- The "for" attribute of a label is linked to the id of an input -->
+        <label for="apiKey">API key:</label>
+        <input name="apiKeyInput" id="apiKey">
+    </div>
+
+    <div id="step1" class="step">
+        <h2>Step 1: Retrieve all JCDecaux contracts</h2>
+        <!-- onclick is an attribute that contains javascript code, triggered when the element is clicked. -->
+        <button id="retrieveContractsButton" onclick="retrieveAllContracts();">Retrieve contracts</button>
+    </div>
+
+    <div id="step2" class="step">
+        <h2>Step 2: Retrieve the stations of a contract</h2>
+        <label for="chosenContract">Contract:</label>
+        <!-- The "list" attribute of an input must be linked to the id of "<datalist>" element. -->
+        <input list="contractsList" name="contractInput" id="chosenContract">
+        <datalist id="contractsList"></datalist>
+        <button id="retrieveStationsButton" onclick="retrieveContractStations();">Retrieve stations</button>
+    </div>
+
+    <div id="step3" class="step">
+        <h2>Step 3: Find the closest Station</h2>
+        <label for="latitude">Latitude:</label>
+        <input name="latitude" id="latitude">
+
+        <label for="longitude">Longitude:</label>
+        <input name="longitude" id="longitude">
+        <button id="getClosestStation" onclick="getClosestStation();">Get closest station</button>
+    </div>
+
+    <div id="step4" class="step">
+        <h2>Closest station: <span id="closestStation"></span></h2>
+    </div>
+
+
+    <!-- Let's load the JS file.
+    Note: we could also write the javascript directly in the html page, inside a <script> tag. -->
+    <script type="text/javascript" src="main.js"></script>
+</body>
+</html>
