@@ -57,7 +57,7 @@ namespace Echo
                 string path = HTTP_ROOT;
                 string str = reader.ReadString();
                 string[] requete = str.Split(' ');
-
+                Console.WriteLine(str);
                 if (requete[0].Equals("GET")){
                     if (requete.Length > 1)
                     {
@@ -65,9 +65,8 @@ namespace Echo
                         if (File.Exists(path))
                         {
                             string str1 = File.ReadAllText(path);
-                            Console.WriteLine(str);
+                            writer.Write("http / 1.0 200 OK"); 
                             writer.Write(str1);
-                            writer.Write("http / 1.0 200 OK");
                         }
                         else
                         {
