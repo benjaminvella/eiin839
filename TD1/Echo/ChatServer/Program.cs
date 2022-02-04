@@ -44,7 +44,7 @@ namespace Echo
             ctThread.Start();
         }
 
-
+        private static string HTTP_ROOT = "..\\..\\..\\www\\pub\\";
 
         private void Echo()
         {
@@ -54,10 +54,35 @@ namespace Echo
 
             while (true)
             {
-
+                string path = HTTP_ROOT;
                 string str = reader.ReadString();
-                Console.WriteLine(str);
-                writer.Write(str);
+                string[] requete = str.Split(' ');
+
+                if (requete[0].Equals("GET")){
+                    if (requete.Length > 1)
+                    {
+                        path += requete[1];
+                        if (File.Exists(path))
+                        {
+                            string str1 = File.ReadAllText(path);
+                            Console.WriteLine(str);
+                            writer.Write(str1);
+                            writer.Write("http / 1.0 200 OK");
+                        }
+                        else
+                        {
+                            writer.Write("File not found");
+                        }
+                    }
+                    else
+                    {
+                        writer.Write("File not found");
+                    }
+                }
+                else
+                {
+                    writer.Write("Not a request GET");
+                }
             }
         }
 
