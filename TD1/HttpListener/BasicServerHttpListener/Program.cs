@@ -65,7 +65,7 @@ namespace BasicServerHTTPlistener
                         documentContents = readStream.ReadToEnd();
                     }
                 }
-                Console.WriteLine($"Received request for {request.Url}");
+                Console.WriteLine($"Received request for {request.Headers}");
                 Console.WriteLine(documentContents);
 
                 // Obtain a response object.
