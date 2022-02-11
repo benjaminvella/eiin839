@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicServerHTTPlistener", "BasicServerHttpListener\BasicServerHTTPlistener.csproj", "{1FDD19DD-336D-4F00-93A9-1E3390EEA577}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicServer", "BasicServer\BasicServer.csproj", "{83FE7749-6614-4809-845C-D387FFF76059}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{1FDD19DD-336D-4F00-93A9-1E3390EEA577}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FDD19DD-336D-4F00-93A9-1E3390EEA577}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FDD19DD-336D-4F00-93A9-1E3390EEA577}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83FE7749-6614-4809-845C-D387FFF76059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83FE7749-6614-4809-845C-D387FFF76059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83FE7749-6614-4809-845C-D387FFF76059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83FE7749-6614-4809-845C-D387FFF76059}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
