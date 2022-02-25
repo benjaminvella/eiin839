@@ -1,7 +1,9 @@
-﻿using System;
+﻿using BasicWebServer;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Net;
+using System.Reflection;
 using System.Text;
 using System.Web;
 
@@ -71,7 +73,8 @@ namespace BasicServerHTTPlistener
                         documentContents = readStream.ReadToEnd();
                     }
                 }
-                
+
+                if (request.Url.LocalPath == "/favicon.ico") continue;
                 // get url 
                 Console.WriteLine($"Received request for {request.Url}");
 
@@ -104,11 +107,23 @@ namespace BasicServerHTTPlistener
 
                 //
                 Console.WriteLine(documentContents);
+                string param1 = HttpUtility.ParseQueryString(request.Url.Query).Get("param1");
+                string param2 = HttpUtility.ParseQueryString(request.Url.Query).Get("param2");
 
                 // Obtain a response object.
                 HttpListenerResponse response = context.Response;
 
+                string localPath = request.Url.LocalPath.Replace("/", "");
+
                 // Construct a response.
+                Type type = typeof(Mymethods);
+                MethodInfo method = type.GetMethod(localPath);
+                //MethodInfo method = type.GetMethod("Method1");
+                Mymethods c = new Mymethods();
+                object[] arguments = { param1, param2 };
+                string result = (string)method.Invoke(c, arguments);
+                Console.WriteLine(result);
+
                 string responseString = "<HTML><BODY> Hello world!</BODY></HTML>";
                 byte[] buffer = System.Text.Encoding.UTF8.GetBytes(responseString);
                 // Get a response stream and write the response to it.

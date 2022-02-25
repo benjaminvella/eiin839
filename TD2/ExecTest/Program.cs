@@ -11,5 +11,12 @@ namespace ExeTest
             else
                 Console.WriteLine("ExeTest <string parameter>");
         }
+
+        public string Method2(string firstParam, string secondParam)
+        {
+            return "<html><body> Hello " + firstParam + " et " + secondParam + "</body></html>";
+        }
     }
+
+
 }
